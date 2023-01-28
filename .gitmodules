@@ -1,0 +1,12 @@
+[submodule "models/EDSR"]
+	path = models/EDSR
+	url = https://github.com/Saafke/EDSR_Tensorflow
+[submodule "models/ESPCN"]
+	path = models/ESPCN
+	url = https://github.com/fannymonori/TF-ESPCN
+[submodule "models/LapSRN"]
+	path = models/LapSRN
+	url = https://github.com/fannymonori/TF-LapSRN
+[submodule "models/FSRCNN"]
+	path = models/FSRCNN
+	url = https://github.com/Saafke/FSRCNN_Tensorflow
