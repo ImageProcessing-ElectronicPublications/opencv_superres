@@ -1,10 +1,10 @@
 # OPENCV SUPERRES
 
-SuperResolution in OpenCV.
+SuperResolution in [OpenCV](https://opencv.org/).
 
 ## Requirements
 
-- OpenCV4
+- [OpenCV4](https://opencv.org/)
 
 ## Build
 
@@ -12,6 +12,12 @@ Type:
 
 ```shell
 make
+```
+
+## Usage
+
+```shell
+opencv_superres image_in fsrcnn 2 models/FSRCNN/models/FSRCNN_x2.pb image_out.png
 ```
 
 ## Models
