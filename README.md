@@ -75,3 +75,8 @@ Tensorflow implementation of LapSRN algorithm described in [1]. It can now suppo
 [2] Agustsson, E., Timofte, R. (2017). NTIRE 2017 Challenge on Single Image Super-Resolution: Dataset and Study. Available at: http://www.vision.ee.ethz.ch/~timofter/publications/Agustsson-CVPRW-2017.pdf  
 
 https://data.vision.ee.ethz.ch/cvl/DIV2K/
+
+## Protocol Buffers
+
+[Google's data interchange format](https://github.com/malthe/google-protobuf).
+
